@@ -1,2 +1,0 @@
-# sitebilgi
-Site Bilgileri Toplama
